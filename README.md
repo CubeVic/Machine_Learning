@@ -1,4 +1,4 @@
-![Hero Image](Hero Image Machine Learning.png)
+![Hero Image](/Hero_Image_Machine_Learning.png)
 # Machine_Learning
 
 In this repository, I will add all the Colab related to Machine learning.
